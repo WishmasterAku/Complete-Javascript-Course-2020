@@ -92,4 +92,40 @@ switch (0) {
         text = 'weekday';
         break;
 }
-console.log(text)
+console.log(text);
+
+// DOM
+/*
+
+document.querySelector('#<--ID')
+
+document.querySelector('.dice').style.display = 'none'; // Hide a element ex: dice
+*/
+let num;
+for(num = 0; 0 <= 10; num++); {
+console.log(num);
+}
+
+//variable is a container that holds data values, like strings, intergers, booleans.
+//function is a piece of code that is used to do a task
+// iterator? hm not to sure
+// dll isn't that a system data file?
+// polymorphism  don't know
+// static variable ?
+for (var i = 0; i < 10; i++);
+for (var i = 0; i < 10; i += 2);
+a = (1 > 2); // false boolean
+
+
+var drinkingAge = prompt("Enter your age");
+
+switch (true) {
+    case (drinkingAge >= 21):
+        console.log('you are old enough to drink');
+            break;
+
+
+            default:
+            console.log('You too young boy');
+        };
+    
